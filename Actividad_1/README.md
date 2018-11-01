@@ -8,7 +8,7 @@ Para realizar la prueba de funcionamiento de la aplicación \"**OrdenarNumeros**
 java -jar OrdenarNumeros.jar
 ```
 
-![captura OrdenarNumeros](/Users/HugoGuillin/Desktop/TareaPSP01/Actividad_1/capturas/Captura_1.png)  
+![captura OrdenarNumeros](https://github.com/tfendo/psp01/blob/master/Actividad_1/capturas/Captura_1.png)  
 
 * **Segunda parte**  
 Para probar el funcionamiento de la aplicación \"**Aleatorios**" he seguido los mismos pasos que para el apartado anterior y la he ejecutado desde la terminal. Se observa en la siguiente captura tras ejecutar la instrucción:  
