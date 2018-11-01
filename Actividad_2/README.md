@@ -1,6 +1,6 @@
-#TAREA PARA PSP01
+# TAREA PARA PSP01
 
-##Ejercicio 2
+## Ejercicio 2
 
 * **Primera parte**  
 Para probar el funcionamiento del programa \"**Lenguaje**" recurro de nuevo a la terminal de línea de comandos. Me sitúo en el directorio *dist* después de haber generado el fichero .jar y ejecuto la instrucción `java -jar Lenguaje.jar miFicheroDeLenguaje.txt`  
